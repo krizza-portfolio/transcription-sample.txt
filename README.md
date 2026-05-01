@@ -1,4 +1,9 @@
 ### 🔹 Project 1: ASR Transcription Sample
+
+📄 View full transcription here:  
+👉 transcription-sample.txt
+
+### 🔹 Project 1: ASR
 📄 View sample here:  
 👉 transcription-sample.txt
 [00:00:00] Speaker 1: Hello everyone, welcome back to the channel.
